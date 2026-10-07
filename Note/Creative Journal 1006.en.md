@@ -4,7 +4,13 @@
 
 This is my first piece of writing about my thesis at New York University. Today is the day before our Week 6 class.
 
-For the past two weeks, I have been hesitating, going back and forth. I have remained uncertain about what actually interests me, what stories I want to tell, and what I should research. In the past, my creative practice was full of intuition. Whatever I saw, whatever happened to come to mind, I would express it and turn it into a work. I explored Herbert Marcuse’s themes in *Eros and Civilization*, trying to connect them with Freud’s physiological concept of the oral stage, and to develop the idea that “people use oral activities to relieve the repression of Eros brought about by the modern industrial environment.” Later, I thought that sand and patterns could make an interesting interactive game, so I used a loudspeaker to create Chladni figures that could vibrate freely.
+For the past two weeks, I have been hesitating, going back and forth. I have remained uncertain about what actually interests me, what stories I want to tell, and what I should research. In the past, my creative practice was full of intuition. Whatever I saw, whatever happened to come to mind, I would express it and turn it into a work. I explored Herbert Marcuse’s themes in *Eros and Civilization*, trying to connect them with Freud’s physiological concept of the oral stage, and to develop the idea that “people use oral activities to relieve the repression of Eros brought about by the modern industrial environment.”
+
+![Eros artwork](../attachment/Eros.png)
+
+Later, I thought that sand and patterns could make an interesting interactive game, so I used a loudspeaker to create Chladni figures that could vibrate freely.
+
+![Chladni sand figures](../attachment/克拉尼图形1%201.jpg)
 
 Looking back now, however, all of these were works born of a sudden intuition. They began with a simple thought. Then came learning, piecing together knowledge, and assembling forms and technologies, until I found a mode of expression that felt like mine—or, more precisely, one that I liked—and eventually established some kind of connection with an audience. Yet these works reveal nothing distinctive about “me.” They could have been made by anyone, from any cultural environment, with any educational background. This sense of “anyone” has left me with an enormous feeling of emptiness in my thesis research: I can choose any direction, but I cannot see myself in it. I do not know what my interests are. In my past work, I cannot see who I am, where I come from, or what I want to express or influence.
 
